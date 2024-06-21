@@ -25,5 +25,5 @@ for j in numbers:
             primes.append(j)
         else:
             not_primes.append(j)
-print("Праймы:", primes)
-print("Не праймы:", not_primes)
+print("Простые числа:", primes)
+print("Не простые числа:", not_primes)
